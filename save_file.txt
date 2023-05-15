@@ -1,0 +1,7 @@
+easy
+1
+RGPBO
+['WWWWW', 'WWWWW', 'WWWWW', 'WWWWW', 'WWWWW', 'WWWWW', 'WWWWW']
+[]
+W
+False

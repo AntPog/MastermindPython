@@ -1,0 +1,5 @@
+easy_text = menufont.render("EASY", True, (0, 0, 0))
+hard_text = menufont.render("HARD", True, (0, 0, 0))
+start_text = menufont.render("START", True, colors["W"])
+settings_text = menufont.render("SETTINGS", True, colors["W"])
+returnmenu_text = menufont.render("menu", True, (0, 0, 0))
