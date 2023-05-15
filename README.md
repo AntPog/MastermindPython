@@ -23,5 +23,5 @@ When the password is guessed the game will present the player with a victory scr
 - scripts.py: contains the class Draw which is responsible for drawing the game
 - mechanics.py: contains the class BodyAndMind which contains all the clickable objects (Body) and the mechanics of clicking anything (Mind)
 - save_file.txt: contains the save file after clicking the button "save" during the game //default: empty easy game
-- pngs: contains all the pngs used in the game
+- pngs: contains all of the pngs used in the game and for this readme
 
